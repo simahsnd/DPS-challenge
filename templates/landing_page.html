@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div id="div5">
+        <h1 id="st2">Verkehrsunfaelle!</h1> 
+        <h2>Please submit inputs in order as:</h2>
+            <h5>1. MONATSZAHL, 2. AUSPRAEGUNG, 3. JAHR, 4. MONAT, 5. VORJAHRESWERT</h5>
+        <form action="{{url_for('predictor')}}">
+        {% for i in range(5) %}
+        <input style="border-radius: 50px; margin-left: 250px; " type="text" name="inputs">
+        <br>
+        {% endfor %}
+        <br>
+        <input style=" margin-left: 285px; font:message-box;" type="submit">
+        </form>
+    </div>
+    <div>
+        <h5 style="margin-top: 580px; margin-left: 580px; position: fixed;">Copyright 2022, Sima Hassanvand</h5>
+    </div>
+
+{% endblock %}
+
+
+
