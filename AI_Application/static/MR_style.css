@@ -43,26 +43,6 @@ div{
 }
 
 #div1{
-    background: #DDD;
-    top: 0;
-    left: 0;
-}
-#div2{
-    background: rgb(202, 200, 200);
-    top: 0;
-    left: 50%;
-}
-#div3{
-    background: rgb(151, 151, 151);
-    top: 50%;
-    left: 0;
-}
-#div4{
-    background: rgb(97, 96, 96);
-    top: 50%;
-    left: 50%;
-}
-#div5{
     background: rgb(150, 197, 211);
     top: 25%;
     left: 25%;
