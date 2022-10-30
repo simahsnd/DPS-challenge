@@ -9,7 +9,7 @@
 
 ###### Number of accidents caused by alcohol consumption over years
 
-![alt text](./Figures/Alkoholunfälle.png)
+![alt text](./Figures/cc.png)
 
 
 ###### Number of accidents 'Verkehrsunfälle' over years
