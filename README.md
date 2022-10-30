@@ -25,8 +25,12 @@
 ![alt text](./Figures/Monatszahl_Pie.png)
 
 
+#### Application Endpoint
+
+###### To run the application, click on following endpoint:
+
 
 
 #### Run AI_Application locally
 
-###### To run the application locally, first install required dependencies listed in requirements.txt, then make the localport 5000 free and run the app.py using 'python3 app.py'
+###### To run the application locally, first install required dependencies listed in /AI_Application/requirements.txt, then make the localport 3000 free and run the app.py using 'python3 app.py'
