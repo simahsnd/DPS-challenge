@@ -1,3 +1,3 @@
 # DPS_Challenge
 
-![alt text](Alkoholunfälle.png)
+![alt text](./Figures/Alkoholunfälle.png)
